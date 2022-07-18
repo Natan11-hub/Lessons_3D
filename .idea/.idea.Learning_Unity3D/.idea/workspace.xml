@@ -13,7 +13,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionFlashShot.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CounterHP.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Damage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DayTimeScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DayTimeScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,6 +89,10 @@
       <workItem from="1657512549093" duration="5245000" />
       <workItem from="1657793003688" duration="5806000" />
       <workItem from="1657802951457" duration="3037000" />
+      <workItem from="1657826111348" duration="5000" />
+      <workItem from="1658143375214" duration="2000" />
+      <workItem from="1658146264776" duration="6356000" />
+      <workItem from="1658153110771" duration="428000" />
     </task>
     <servers />
   </component>
